@@ -17,3 +17,36 @@ class Solution {
     }    
 }
     
+
+
+//     public class minmax {
+
+//     static void main() {
+//         int[] arr ={ 1,2,3,4,6,4,7};
+
+//         int target =9;
+
+//         int min = 0;
+
+//         int max = arr.length-1;
+
+//         while(min < max){
+//             int current = arr[min]+arr[max];
+
+//             if(current == target){
+//                 System.out.println("number is found  " + min+ ","+ max);
+//                 min++;
+//                 max--;
+//             }else if (current< target){
+//                 min ++;
+
+//             }else {
+//                 max--;
+//             }
+
+
+
+//         }
+
+//     }
+// }
