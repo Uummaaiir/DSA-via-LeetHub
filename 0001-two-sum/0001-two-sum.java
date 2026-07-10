@@ -20,7 +20,7 @@ class Solution {
 
 
 //     public class minmax {
-
+// tge
 //     static void main() {
 //         int[] arr ={ 1,2,3,4,6,4,7};
 
