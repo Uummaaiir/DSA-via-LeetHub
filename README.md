@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0007-reverse-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Prefix Sum
 |  |
