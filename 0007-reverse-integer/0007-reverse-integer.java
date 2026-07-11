@@ -8,7 +8,7 @@ class Solution {
 
             reminder = x % 10;
 
-            // Check for overflow before updating reverse
+            // Check for the overflow before updating reverse
             if (reverse > Integer.MAX_VALUE / 10 ||
                 (reverse == Integer.MAX_VALUE / 10 && reminder > 7)) {
                 return 0;
