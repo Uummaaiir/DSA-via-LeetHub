@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0043-multiply-strings) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Prefix Sum
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
