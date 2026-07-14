@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0283-move-zeroes) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Math
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0043-multiply-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
