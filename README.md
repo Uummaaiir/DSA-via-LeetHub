@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0067-add-binary) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Prefix Sum
 |  |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0067-add-binary) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
