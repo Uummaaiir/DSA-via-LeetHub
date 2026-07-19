@@ -5,6 +5,8 @@ class Solution {
         int j = b.length() - 1;
         int carry = 0;
 
+        //revise
+
         StringBuilder result = new StringBuilder();
 
         while (i >= 0 || j >= 0 || carry != 0) {
