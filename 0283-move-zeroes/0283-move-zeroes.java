@@ -3,6 +3,8 @@ class Solution {
 
         int index =0;
 
+        //revised
+
         for(int i=0; i<nums.length; i++){
             if(nums[i]!=0){
                 nums[index] = nums[i];
@@ -17,3 +19,5 @@ class Solution {
 
 }
 }
+
+
