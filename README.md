@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0067-add-binary) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Uummaaiir/DSA-via-LeetHub/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
